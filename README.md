@@ -2,7 +2,7 @@
 
 **Mobile Price Prediction - Classification Analysis**
 
-![Mobile Price Prediction](https://user-images.githubusercontent.com/105715834/233306258-c4b93e44-4415-4c18-a190-7430cd0fcfa6.gif)
+![Mobile Price Prediction (1)](https://user-images.githubusercontent.com/105715834/233460210-ecc98641-03a6-45c7-9e22-57d2872d5699.gif)
 
 **📱Content:** 
 
