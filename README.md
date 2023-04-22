@@ -39,4 +39,4 @@ In a competitive market like mobile phones, assumptions won't cut it. Bob unders
 
 **📔Problem Statement:**
 
-The goal of this problem is not to predict the actual price of a mobile phone, but rather to determine a price range that indicates how high the price could be. With your help, Bob can gain a better understanding of the market and set competitive prices for his products.
+The goal of this problem is not to predict the actual price of a mobile phone, but rather to determine a price range that indicates how high the price could be. With your help, Bob can gain a better understanding of the market and set competitive prices for his products
