@@ -1,4 +1,4 @@
-# 📱Mobile Price Prediction ![license](https://img.shields.io/github/license/alifrmf/Country-Profiling-Using-PCA-and-Clustering.svg) ![releases](https://img.shields.io/github/release/alifrmf/Country-Profiling-Using-PCA-and-Clustering.svg)
+# 📱Mobile Price Prediction ![license](https://img.shields.io/github/license/alifrmf/Mobile-Price-Prediction-Classification-Analysis.svg) ![releases](https://img.shields.io/github/release/alifrmf/Mobile-Price-Prediction-Classification-Analysis.svg)
 
 **Mobile Price Prediction - Classification Analysis**
 
