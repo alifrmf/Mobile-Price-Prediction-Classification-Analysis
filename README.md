@@ -26,6 +26,7 @@ Our objective is to predict the price range of a mobile phone by building a mode
     
 Our task is to perform a classification on the target variable "Price Range" based on the data and attribute information. To achieve the best possible classification, we will develop a model that accurately predicts the price range of mobile phones.
 
+![Presentation1](https://github.com/alifrmf/Mobile-Price-Prediction-Classification-Analysis/assets/105715834/8b4516f1-11d1-4dce-b993-f501c8640422)
 
 ## Dataset 📔
 
